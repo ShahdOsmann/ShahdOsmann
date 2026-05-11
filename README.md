@@ -9,24 +9,14 @@
 
 
 <h2 align="center">📊 My Github Stats</h2>
-   <br/>   
-    <p align="center">      
-  <a href="https://github.com/shahdosmann/github-readme-stats"><img alt="raveenakale Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahdosmann&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-      </p>      
-     <br/>
+      <br/>
    <p align="center">
     <a href="https://github.com/shahdosmann/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shahd streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shahdosmann&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>  
 
-  <br/>
-  <br/>
-     <p align="center">                                                                                                 
-    <a href="https://github.com/shahdosmann/github-readme-stats"><img alt="shahd Osman Github Stats" src="https://github-readme-stats.vercel.app/api?username=shahdosmann&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="shahdosman" /></a>
-    </p>                                                                 
-
-
+  <br/> 
 <br/>
 <br/>
   
